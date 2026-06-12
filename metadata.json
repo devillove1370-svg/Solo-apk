@@ -1,0 +1,6 @@
+{
+  "name": "Solo Fitness System",
+  "description": "سامانه تناسب اندام سولو: برخاستن شکارچی - تبدیل زندگی واقعی به یک بازی نقش‌آفرینی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

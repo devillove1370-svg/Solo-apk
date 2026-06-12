@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:width="85dp"
+        android:height="85dp"
+        android:drawable="@drawable/solo_fitness_icon_1781255127479"
+        android:gravity="center" />
+</layer-list>
+
